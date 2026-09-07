@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NohHW_ws\\source\\repos\\Programming2026Class-CJU\\HelloWorld_for_github_repo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36540EE7-4CA0-4A43-8E39-BA0C33AADABC}|HelloWorld_for_github_repo\\HelloWorld_for_github_repo.vcxproj|C:\\NohHW_ws\\source\\repos\\Programming2026Class-CJU\\HelloWorld_for_github_repo\\HelloWorld_for_github_repo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36540EE7-4CA0-4A43-8E39-BA0C33AADABC}|HelloWorld_for_github_repo\\HelloWorld_for_github_repo.vcxproj|solutionrelative:HelloWorld_for_github_repo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\NohHW_ws\\source\\repos\\Programming2026Class-CJU\\HelloWorld_for_github_repo\\HelloWorld_for_github_repo\\main.cpp",
+              "RelativeDocumentMoniker": "HelloWorld_for_github_repo\\main.cpp",
+              "ToolTip": "C:\\NohHW_ws\\source\\repos\\Programming2026Class-CJU\\HelloWorld_for_github_repo\\HelloWorld_for_github_repo\\main.cpp",
+              "RelativeToolTip": "HelloWorld_for_github_repo\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-07T08:42:22.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
