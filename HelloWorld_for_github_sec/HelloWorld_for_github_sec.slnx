@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HelloWorld_for_github_sec/HelloWorld_for_github_sec.vcxproj" />
+</Solution>
