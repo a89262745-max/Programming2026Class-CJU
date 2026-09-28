@@ -1,6 +1,10 @@
 #include<stdio.h>
 
 int main() {
+    //The range for a standard int is -2,147,483,648 to 2,147,483,647.
+    //Since time cannot be negative and durations may exceed 2.1 billion seconds,
+    //unsigned long long is used instead..
+    
     unsigned long long practice_time;
     printf("Enter your practice time in seconds: ");
     scanf("%llu", &practice_time);
