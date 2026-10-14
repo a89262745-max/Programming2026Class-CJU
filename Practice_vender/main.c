@@ -15,7 +15,7 @@ int main(void) {
         printf("1. cola   = 1200 won\n");
         printf("2. sprite = 1100 won\n");
         printf("3. coffee =  800 won\n");
-        printf("4. quit\n");
+        printf("4. quit(cancel)\n");
         printf("0. admin\n");
         printf("Select a menu number: ");
 
@@ -38,8 +38,8 @@ int main(void) {
                 break;
 
             case 4:
-                printf("Goodbye!\n");
-                return 0;
+                printf("Purchase canceled. Returning to main menu.\n");
+                continue;
 
             case 0:
                 printf("Password(admin): ");
